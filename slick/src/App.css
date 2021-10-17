@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.imag{
+  display:flex;
+  height:50px;
+  width:50px;
+  align-items: center;
+  margin:auto;
+  margin-top: 20px;
+}
+.imag img{
+  height:45px;
+  width:45px;
+  margin:10px;
+  border:2px solid black;
+  padding:5px;
+  border-radius: 5px;
+}
